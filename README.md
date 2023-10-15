@@ -14,7 +14,7 @@ yarn build
 
 ```
 
-### Working application on the page
+### Working application on the gh-page
 ```
 https://spektra135.github.io/kanban/
 ```
