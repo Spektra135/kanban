@@ -1,3 +1,5 @@
+https://spektra135.github.io/kanban/
+
 ## Project setup
 ```
 yarn install
